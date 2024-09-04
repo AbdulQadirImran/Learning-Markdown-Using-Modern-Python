@@ -39,7 +39,7 @@ print("Hello GloProg Family!")
 
 ---
 
-## 📸 **Image: GitHub Logo**
+## 📸 **Image: GloProg Logo**
 
 ![GloProg Logo](https://yt3.googleusercontent.com/vJq-3rXHv83mD6R3MbpysiQi-Iy4DKaibPWxaplKpMowtbcf3KQh4D35aTAiFh863QhV2yKY9CI=s160-c-k-c0x00ffffff-no-rj)
 
